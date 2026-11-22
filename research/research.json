@@ -1,0 +1,341 @@
+{
+  "brand": "Faten Boutique",
+  "handle": "fatenboutique.leb",
+  "instagram": "https://www.instagram.com/fatenboutique.leb/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "11.5K",
+  "latestVisiblePost": "2026-11-20",
+  "researchDate": "2026-11-22",
+  "profileBio": "By Faten Nasser\nExplore your true style.\nOrder now via DM\nWorldwide delivery\nBeirut - Haret Hreik & Bir El Abd",
+  "bioLinks": [
+    "https://maps.app.goo.gl/AgBydJXQFfuxxekZA?g_st=iw"
+  ],
+  "branches": [
+    {
+      "name": "Haret Hreik and Bir El Abd, Beirut, Lebanon",
+      "mapUrl": "https://maps.app.goo.gl/AgBydJXQFfuxxekZA?g_st=iw"
+    }
+  ],
+  "about": "Faten Boutique by Faten Nasser shares thoughtfully styled layers and everyday looks from Beirut. Browse the photographed collection and send the boutique an Instagram message to explore your favourite pieces.",
+  "heroImage": "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/11.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/03.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/02.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/03.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/04.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/05.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/08.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/09.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/10.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/11.jpg",
+    "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/12.jpg"
+  ],
+  "products": [
+    {
+      "id": "light-embellished-knit",
+      "name": "Light Embellished Knit",
+      "category": "Knitwear",
+      "description": "A close view of a pale knit sleeve with scattered small decorative accents. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/Df4T5Zys4-D/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/reel/Df4T5Zys4-D/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "red-dotted-outer-layer",
+      "name": "Red Dotted Outer Layer",
+      "category": "Outer layers",
+      "description": "A deep red high-neck outer layer with subtle dotted decoration, shown alongside another light layer in the boutique display. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/03.jpg",
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfzTibwDMAP/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/p/DfzTibwDMAP/",
+        "https://www.instagram.com/fatenboutique.leb/reel/DfzS9fyMQZB/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "charcoal-pocket-jacket",
+      "name": "Charcoal Pocket Jacket",
+      "category": "Outer layers",
+      "description": "A charcoal collared short jacket with large front patch pockets and light buttons. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfzRCIJDK63/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/p/DfzRCIJDK63/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "taupe-trim-cardigan",
+      "name": "Taupe Trim Cardigan",
+      "category": "Knitwear",
+      "description": "A taupe button-front cardigan with contrasting pale trim around the pockets, hem and cuffs. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfhQm74Mybv/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/reel/DfhQm74Mybv/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "long-neutral-cardigan",
+      "name": "Long Neutral Cardigan",
+      "category": "Knitwear",
+      "description": "A long taupe button-front cardigan with broad light cuff stripes. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfhQP7nMbFM/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/reel/DfhQP7nMbFM/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "blue-belted-coordinated-look",
+      "name": "Blue Belted Coordinated Look",
+      "category": "Coordinated looks",
+      "description": "A long blue high-neck top styled with matching wide-leg trousers and a contrasting belt. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUURbHsNdB/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/p/DfUURbHsNdB/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "olive-utility-look",
+      "name": "Olive Utility Look",
+      "category": "Coordinated looks",
+      "description": "An olive collared jacket with front pockets and a tied waist, styled with matching wide-leg trousers. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUT3XZjJHJ/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/p/DfUT3XZjJHJ/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "light-grey-coordinated-look",
+      "name": "Light Grey Coordinated Look",
+      "category": "Coordinated looks",
+      "description": "A light grey collared long-sleeved top styled with matching loose trousers. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/faten-boutique/assets/12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUTIFQszAF/",
+      "sourcePosts": [
+        "https://www.instagram.com/fatenboutique.leb/p/DfUTIFQszAF/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "activityEvidence": "Owning agent observed the current public Instagram profile and dated grid on 2026-11-22. Latest exported native image is dated November 20, 2026. See export.json for the observed profile text and all source post URLs.",
+  "websiteCheck": {
+    "result": "No matching official website or commerce shop found in the bounded searches and inspected current public Instagram/Linktree links. This is a dated research finding, not a guarantee that none exists.",
+    "queries": [
+      "\"fatenboutique.leb\" website",
+      "\"Faten Boutique\" Lebanon website",
+      "\"fatenboutique.leb\""
+    ],
+    "checkedDate": "2026-11-22",
+    "sources": [
+      "https://www.instagram.com/fatenboutique.leb/"
+    ]
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/Df9j5IPM7nx/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/916966210_2231907307691180_5517551112431558339_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fFNgmi471f4Q7kNvwFV-VxD&_nc_oc=Adqa76dUHc394ULH0UP1QXYPjkU-MKZ9cFPFm9qp0Wk7T6LgkOVA6fmDVL_nL5jjmNE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTjlBqStIj9bJFKYjrqgw8t2S400F91vb50PyxElx1JEQ&oe=6B08A149",
+      "alt": "Video by Faten Boutique | Clothes on November 20, 2026. May be an image of eclipse and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "03fd2abbd60cafb9b0c75c206fcbf1a4a056e13c10b918238b1201a3a1b570c3",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\02.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/Df4T5Zys4-D/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/917427242_1542238287715462_4706715884068434722_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KCBWsw0yx0kQ7kNvwFE2SDn&_nc_oc=AdqqkYODc1ZdI1QZs7OcIDln9uqZFQoC5iigD9JjXp7WSBeKXRDepOfCyABgpV_l6lI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRNLENaFy2YEiTRD_3PyIHo7c8uoibOkmw_qdLdNWqzmw&oe=6B0894BA",
+      "alt": "Video by Faten Boutique | Clothes on November 18, 2026. May be an image of turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "90d7a5f7f50dbbfc134c203c0f2192bb892d44e812ba2744071e6de88e0a0406",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\03.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfzTibwDMAP/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910059084_18094310429705059_3380399793015135880_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v-deN1xcOpgQ7kNvwEybCLz&_nc_oc=Adpsqre8W1xb3Vfi2TNGS3bmILfxynD2Nx2XeuWu0RdpW0TznKVQ52zrpdDGrujV18g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRsInMSRgDaAE62PEetGb3TiHTJtrsetWdRzDBhEk511w&oe=6B08AF91",
+      "alt": "Photo by Faten Boutique | Clothes on November 16, 2026.",
+      "width": 640,
+      "height": 640,
+      "sha256": "3949809777814c563c62f49ab0f7ae4d47765b2cdd0a32cd836cd2c0162d030f",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfzS9fyMQZB/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/912169716_1649498819885347_6952723902726180969_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DBdILId9NMIQ7kNvwGAu62G&_nc_oc=Adrrt9vYk_qdnm68SoP3uf3IvaK42WOEgyvmWrff1j-m2DmO-COBI7eahamfglc-MUw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSS8MpCj9_nWKEn4KVlpeaek-bOIf3NC3J1F6Grj3lx6A&oe=6B089163",
+      "alt": "Video by Faten Boutique | Clothes on November 16, 2026. May be an image of mannequin, jacket, raincoat, turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "f2a54f1dd7d238684c4c6b2785636d3ba961204831f05a13f88c705a1f4b6018",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\05.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfzRCIJDK63/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/909639990_18094308500705059_1729638998964251980_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=85KZrAgs6I0Q7kNvwHIJ-Qw&_nc_oc=AdpriNX4ySE92JtjmozuLuq90LLIuU02W0ECSVd0MAtR5x7cL76AfHsgdWG-Fzf0hog&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQGb9QcEdDq2cQWCMPPI-7QK0iVOea3aA8iYB1oXx4BKQ&oe=6B08B748",
+      "alt": "Photo by Faten Boutique | Clothes on November 16, 2026.",
+      "width": 640,
+      "height": 640,
+      "sha256": "1443437b65ea07118259f2a92629d0626b889dfd6b5dc66f9f533d6d2e25b31b",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfzQZztMsu2/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/910399697_1174027245344638_8815005326748955617_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C4Dv7dldAewQ7kNvwHrq4p6&_nc_oc=Adoeid6ukazPxQufMvj0l7Ljx9gW_1ULGfSoXVASDIc6vSg_ATQ2jEU_ea4ECiwf1UE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSp9rRTdcFDW0p5A6xHzK9PKcorYeTsCe8gM05Fywdwvw&oe=6B08AC56",
+      "alt": "Video by Faten Boutique | Clothes on November 16, 2026. May be an image of eclipse and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "2039b5350a44af45b7a2c76115527b505dbd9abf7f895cd362e6a5be027ba0a9",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfhRBT6s7Tc/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/884884711_1433573991671383_1937095947227571254_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mv76vS5vZawQ7kNvwHYTOpW&_nc_oc=AdpVCOqtmcvDv4gvuxIe3-619uzLCb4dKSoR_gwhjuUJnca25jkz_DtipzKsHWVHUbc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ8e0tLF7DlE1A2YKI2eE6BF1QJYotMwrvwntC4qKt6nw&oe=6B08B997",
+      "alt": "Video by Faten Boutique | Clothes on November 09, 2026. May be an image of eclipse and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "fdd498c9b8c8228c60a523ea510b142a0b6652ef83acf4237aef9decb2271923",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfhQm74Mybv/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/895197211_5422139744677000_3923847464829531545_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Fd85CbvLbeYQ7kNvwGfo-RL&_nc_oc=AdpHVUj5HrtaVAy4YM4E_UDAJcpjy5ShT1KZ8P3EZ1p92Ths8P0EiarJLc7HZgqsowM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRIFVMFR0v3-cMzIXRZJO1AqRnic7FRTJ9uOUyJhd6QYQ&oe=6B08966C",
+      "alt": "Video by Faten Boutique | Clothes on November 09, 2026. May be an image of sleepwear, poncho, cardigan, coat and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "0cc3bfefe51d0354dad1152085aba0abaf353e09edeefcf09e2e52cc523bdbe2",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/reel/DfhQP7nMbFM/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/894386347_1481471887488328_1558292737248753787_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Jb0zwABFIVEQ7kNvwH0R2j8&_nc_oc=AdqUfxEuGswLCxELWjDXG92rsSO6vWLas-bbPI0Z8BiJNvMuy4JSR_iYaXExBcRzM5g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQbcJ6kWQYmu8ax6-Gk3lUdahEstEgxcuG8WgxiXhvZEw&oe=6B08A618",
+      "alt": "Video by Faten Boutique | Clothes on November 09, 2026. May be an image of overcoat, cardigan and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "1666a0a7780b19af87fd713017ac0c4e9e77d3dabf98d100c6db655a18c91f17",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\10.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUURbHsNdB/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885389129_18092371175705059_5978303499344594903_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AFlYyPbum9cQ7kNvwFayvZH&_nc_oc=AdpNjPxcmDtTdV6NgigIWqqFjiUw_NT-AfCxtwGc-e2PZQ-rshoYB0EO0qPvcxZ_o20&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSl5nCPBZVfgWWohRTpTvwL21fBUX2T4ae9n1MFeUXyKQ&oe=6B088D0F",
+      "alt": "Photo by Faten Boutique | Clothes on November 04, 2026. May be an image of text.",
+      "width": 493,
+      "height": 640,
+      "sha256": "cb023e3f1bbd4592a28e5b62ed0224c6335bcb4da8d0092c6056bdac868384ce",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\11.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUT3XZjJHJ/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885680272_18092370485705059_5636583986255666995_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CI2roAPSH2cQ7kNvwHs1vZh&_nc_oc=AdpSb7ON7SyylPmc5eH4j6ECrB2LLbv8puGvldXsrV4SYL_yxjsxPj3OsDNvoqhtdCo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTcDx0S6w7dd0gh2eEgjXOzPRN8aRr3AC9XC4mj-7KRsw&oe=6B08B98B",
+      "alt": "Photo by Faten Boutique | Clothes on November 04, 2026. May be an image of text.",
+      "width": 640,
+      "height": 640,
+      "sha256": "c84e1bd0777e2ae296b8d66954cdad2ff00c352f11c838f9f355d6a2aef0e15f",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\faten-boutique\\assets\\12.jpg",
+      "sourcePost": "https://www.instagram.com/fatenboutique.leb/p/DfUTIFQszAF/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/888143378_18092369984705059_5509913051041503290_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=760TT2ukuE4Q7kNvwEAPLNe&_nc_oc=AdpLSVY-jWYZXpUpHLbAUzvwRGGxLU11yJaMO_YQ_bKuvwL_3z3G1q5gc1RMcezZ_IA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rvTViACmVizXKCaiJOKmVw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR5FO6zOYeJkUfqawA1jWfseSrw8_xx1DmMOOv5D7E_6Q&oe=6B08A8B0",
+      "alt": "Photo by Faten Boutique | Clothes on November 04, 2026. May be an image of overcoat and text.",
+      "width": 480,
+      "height": 640,
+      "sha256": "8862de030ae09463d1c22674e2672fc3923d4e8f037191a722504bda1275a95b",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    }
+  ],
+  "imageNotes": "Nine usable native public stills form eight distinct garment looks. Images01,06,07 are black Reel covers with a small CapCut logo and are excluded. Images03/04 form one red outer-layer product. Displayed styling descriptions do not imply that multiple garments are sold as a bundle. Do not infer textile composition, prices, exact sizes or stock.",
+  "designRecommendation": "Use rich burgundy and charcoal type on clean white, large uncluttered native photographs and a concise boutique story. Instagram enquiry is the verified public contact channel; keep phone and WhatsApp absent unless a real public number is supplied. Avoid the black Reel covers01/06/07.",
+  "commercialFit": "An image-led searchable collection with saved favourites and item-specific enquiries can help customers browse beyond the Instagram feed. Current sizes, stock and prices should be confirmed by the boutique; do not invent checkout, payment or fulfilment capability.",
+  "researchStatus": "Complete: eight looks and nine native public images selected after visual QA."
+}

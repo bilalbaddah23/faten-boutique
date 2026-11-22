@@ -1,0 +1,167 @@
+{
+  "brand": "Faten Boutique",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/fatenboutique.leb/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-f9a5ec9b7ffdfa26.jpg",
+  "story": "/images/photo-12ab685afe92bc78.jpg",
+  "galleryImages": [
+    "/images/photo-44debf7e6eb1315e.jpg",
+    "/images/photo-12ab685afe92bc78.jpg",
+    "/images/photo-6a2f33be8d2aeaf8.jpg",
+    "/images/photo-43c03b038cf75339.jpg",
+    "/images/photo-490eb18afba58540.jpg",
+    "/images/photo-8f26836ba189f0dd.jpg",
+    "/images/photo-bb1769cb1028c1ee.jpg",
+    "/images/photo-f9a5ec9b7ffdfa26.jpg",
+    "/images/photo-6416dddb43f5f6d7.jpg"
+  ],
+  "products": [
+    {
+      "id": "light-embellished-knit",
+      "name": "Light Embellished Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A close view of a pale knit sleeve with scattered small decorative accents. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-44debf7e6eb1315e.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/reel/Df4T5Zys4-D/"
+    },
+    {
+      "id": "red-dotted-outer-layer",
+      "name": "Red Dotted Outer Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A deep red high-neck outer layer with subtle dotted decoration, shown alongside another light layer in the boutique display. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-12ab685afe92bc78.jpg",
+        "/images/photo-6a2f33be8d2aeaf8.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/p/DfzTibwDMAP/"
+    },
+    {
+      "id": "charcoal-pocket-jacket",
+      "name": "Charcoal Pocket Jacket",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A charcoal collared short jacket with large front patch pockets and light buttons. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-43c03b038cf75339.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/p/DfzRCIJDK63/"
+    },
+    {
+      "id": "taupe-trim-cardigan",
+      "name": "Taupe Trim Cardigan",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe button-front cardigan with contrasting pale trim around the pockets, hem and cuffs. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-490eb18afba58540.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/reel/DfhQm74Mybv/"
+    },
+    {
+      "id": "long-neutral-cardigan",
+      "name": "Long Neutral Cardigan",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long taupe button-front cardigan with broad light cuff stripes. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-8f26836ba189f0dd.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/reel/DfhQP7nMbFM/"
+    },
+    {
+      "id": "blue-belted-coordinated-look",
+      "name": "Blue Belted Coordinated Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long blue high-neck top styled with matching wide-leg trousers and a contrasting belt. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-bb1769cb1028c1ee.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/p/DfUURbHsNdB/"
+    },
+    {
+      "id": "olive-utility-look",
+      "name": "Olive Utility Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "An olive collared jacket with front pockets and a tied waist, styled with matching wide-leg trousers. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-f9a5ec9b7ffdfa26.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/p/DfUT3XZjJHJ/"
+    },
+    {
+      "id": "light-grey-coordinated-look",
+      "name": "Light Grey Coordinated Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light grey collared long-sleeved top styled with matching loose trousers. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6416dddb43f5f6d7.jpg"
+      ],
+      "source": "https://www.instagram.com/fatenboutique.leb/p/DfUTIFQszAF/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Haret Hreik and Bir El Abd, Beirut, Lebanon",
+      "mapUrl": "https://maps.app.goo.gl/AgBydJXQFfuxxekZA?g_st=iw"
+    }
+  ]
+}
